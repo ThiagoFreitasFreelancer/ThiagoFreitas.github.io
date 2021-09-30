@@ -19,10 +19,10 @@ body {
 }
 
 .container {
-  max-width: 640px;
-  margin: 50px auto;
+  max-width: 70%;
+  margin: 5% auto;
   background: #fff;
-  padding: 20px;
+  padding: 5%;
   border-radius: 10px;
 }
 
@@ -46,11 +46,11 @@ form button {
   border: none;
   background: var(--primary-color);
   color: #fff;
-  font-size: 18px;
+  font-size: 18%;
   font-weight: 700;
-  height: 50px;
+  height: 50%;
   cursor: pointer;
-  margin-top: 30px;
+  margin-top: 30%;
 }
 
 form button:hover {
@@ -58,17 +58,18 @@ form button:hover {
 }
 
 img { 
-  position: top;
-  width: 20%;
-  margin-left: 80%;
-  margin-top: 0%;
-  
+  width: 25%;
+  float: right;
 }
 
 .name{
-  position: left;
-  width: 30%;
-  margin: 2%;
-  margin-right: 2%;
-  margin-block-end: 5%;
+  float: left;
+  width: 75%;
+}
+
+.portfolioTeme{
+
+  margin-top: 10%;
+  text-align: center;
+
 }
