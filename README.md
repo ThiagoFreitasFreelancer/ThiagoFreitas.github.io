@@ -1,3 +1,3 @@
-# ThiagoFreitasFreelancer.github.io
+# ThiagoFreitas.github.io
 Presentation portfolio
 
